@@ -6,9 +6,7 @@
  I'm a graduate in Computer Science 🎓 from Aurangabad University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
 Joined Github **1** years ago.
-
-Like My Work?
-
+***
 ### Talking about Personal Stuffs:
 - 🛠 &nbsp; I’m currently working with JavaScript, React, Nodejs, ExpressJS , <br /> Graphql, Mongodb,  etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
