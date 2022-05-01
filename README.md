@@ -9,7 +9,7 @@
 Joined Github **1** years ago.
 ***
 ### Talking about Personal Stuffs:
-- 🛠 &nbsp; I’m currently working with JavaScript, React, Nodejs, ExpressJS , <br /> Graphql, Mongodb,  etc.
+- 🛠 &nbsp; I’m currently working with JavaScript, React, Nodejs, ExpressJS , <br /> Mongodb,  etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rampawar2244).
  - 📫 &nbsp; How to reach me: ramspawar17@gmail.com
